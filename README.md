@@ -33,4 +33,4 @@ The Soda Distribution Game simulates a supply chain with four roles: Retailer, W
 
 ## License
 
-MIT 
+its mine hehe
